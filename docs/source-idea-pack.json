@@ -1,0 +1,32 @@
+{
+  "pickupRank": 49,
+  "domain": "WindowsApp",
+  "ideaNo": 14,
+  "idea": "カット尺・リズム確認パネル",
+  "repository": "cut-duration-rhythm-check-panel",
+  "publish": "GitHub Release / BOOTH",
+  "createdIdeaFolder": "D:/AI/WindowsApp/created_idea_014_cut-duration-rhythm-check-panel",
+  "zipFile": "D:/AI/WindowsApp/created_idea_014_cut-duration-rhythm-check-panel/idea_014_cut-duration-rhythm-check-panel.zip",
+  "zipDocumentsChecked": [
+    "metadata.json",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "02_SPECIFICATION.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md"
+  ],
+  "zipMetadataRepositoryName": "cut-duration-rhythm-check-panel",
+  "zipMetadataMatchedRepository": true,
+  "existingRepositoryReadmeAtStart": "存在しない",
+  "domainDocsRead": [
+    "D:/AI/IDEAS/WindowsApp/Design.md",
+    "D:/AI/IDEAS/WindowsApp/Architecture.md",
+    "D:/AI/IDEAS/WindowsApp/AGENTS.md",
+    "D:/AI/IDEAS/WindowsApp/SKILL.md",
+    "D:/AI/WindowsApp/AGENTS.md",
+    "D:/AI/WindowsApp/SKILL.md"
+  ],
+  "hostInference": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "cut-duration-rhythm-check-panel",
+  "title": "カット尺・リズム確認パネル",
+  "domain": "WindowsApp",
+  "kind": "windows-app",
+  "host": null,
+  "field": "動画編集検品",
+  "audience": "動画編集者、ショート動画制作者、レビュー担当者",
+  "workflow": "カットごとの尺、意図、テンポ、違和感メモをまとめ、レビュー時の確認を短縮する。",
+  "requiredFields": [
+    "clipId",
+    "durationSec",
+    "rhythmIntent",
+    "reviewNote"
+  ],
+  "warningField": "tempoRisk",
+  "warningMessage": "テンポまたは尺が基準から外れている可能性があります。",
+  "qcdsTarget": "A-以上。closed alphaではS-を基準とする。"
+}
