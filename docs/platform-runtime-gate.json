@@ -1,0 +1,11 @@
+{
+  "product": "cut-duration-rhythm-check-panel",
+  "title": "カット尺・リズム確認パネル",
+  "domain": "WindowsApp",
+  "ideaNo": 14,
+  "platformType": "windows-local-app",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
